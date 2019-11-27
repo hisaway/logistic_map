@@ -17,6 +17,7 @@ def deps do
 end
 ```
 
+ d
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/logistic_map](https://hexdocs.pm/logistic_map).
